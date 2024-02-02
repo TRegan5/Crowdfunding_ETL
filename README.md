@@ -11,4 +11,7 @@ Some assistance came from online searches:
 Special thanks to our TA Rhythm Ahir for helping troubleshoot a new PGadmin install and subsequent uploads of csv files to our SQL database in pgAdmin!!!
 
 All csv files were exported and stroed in the Resources folder under this project.
+
 The database ERD (created at https://app.quickdatabasediagrams.com/#/d/D8IgWK) and exported schema (crowdfunding_db_schema.sql) are stored separately in the Database folder. 
+
+Finally, all query files to check data in each of the four database tables are also stored in teh Database folder. 
